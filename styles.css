@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans:ital,wght@0,400;0,800;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Open+Sans:ital,wght@0,400;0,800;1,600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    background-image: url(image/Banner\ Image.png);
+    border-radius: 16px;
+}
+
+.banner-sec{
+    padding-top: 177px;
+}
+
+.banner-text{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+
+}
+.banner-title{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    width: 632px;
+    margin: 0 auto;
+
+}
+#main{
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.main-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.main-pra{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.main-title-2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+.pic{
+    width: 100%;
+}
+
+#banner-2{
+    max-width: 1320px;
+    margin: 0 auto;
+    background-image: url(image/Vectorrr.png);
+   background-repeat: no-repeat;
+   margin-top: 50px;
+}
+.banner-sec-sec{
+     display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    padding: 80px 120px;
+}
+
+.banner-2-title{
+    color: #FFF;
+    width: 642px;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.banner-2-pra{
+    color: rgba(255, 255, 255, 0.80);
+    width: 642px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+
+}
+
+.link{
+    
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.link a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+#hotel-info{
+    max-width: 1320px;
+    height: 282px;
+    margin: 0 auto;
+    padding-top: 150px;
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+.hotel-sec{
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.btn-btn{
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    margin-top: 20px;
+}
+span{
+    color: #F00;
+}
+#best-offer{
+    max-width: 1320px;
+    margin: 40px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    
+}
+
+.best-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+
+.best-heading{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.best-pra{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.img-img{
+    padding: 20px;   
+    border-radius: 403px;
+    border: 15px solid #F00;
+    width: 403px;
+    height: 403px;
+}
