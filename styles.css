@@ -243,7 +243,13 @@ span{
     margin:6px 6px; 
     width: 424px;
     height: 450px;
+    border-radius: 10px;
+    
 
+}
+.protfolio-pic img:hover{
+    box-shadow: 0 5px 10px black;
+    
 }
 
 #Newsletter{
