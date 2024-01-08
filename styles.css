@@ -182,6 +182,7 @@ span{
     border: 15px solid #F00;
     width: 403px;
     height: 403px;
+    margin-left: -40px;
 }
 .best-title-2{
     color: #F00;
